@@ -10,6 +10,7 @@ import AboutUs from "./pages/AboutUs";
 import ContactUs from "./pages/ContactUs";
 import Booking from "./pages/Booking";
 
+
 export default function App() {
   return (
     <BrowserRouter className="text-3xl font-bold underline">
